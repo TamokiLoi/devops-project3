@@ -72,3 +72,4 @@ set DB_PORT=5433
 set DB_NAME=mydatabase
 
 aws eks create-addon --addon-name amazon-cloudwatch-observability --cluster-name my-cluster2
+update
